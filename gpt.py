@@ -52,7 +52,7 @@ def translate_english_to_chinese( msg):
         "Authorization": f"Bearer {open_api_key}"
     }
     data = {
-        "model": "gpt-3.5-turbo",
+        "model": gpt_model,
         "messages": msg
     }
     
