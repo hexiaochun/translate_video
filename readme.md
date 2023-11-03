@@ -1,3 +1,13 @@
+
+
+## input video
+https://github.com/hexiaochun/translate_video/assets/3852922/c2876083-55a3-4994-9aa1-c1f9bafc198d
+
+
+## output video
+https://github.com/hexiaochun/translate_video/assets/3852922/55e8f74e-7b3a-41f4-a3ce-42b66a6fbd05
+
+
 ### 中文版本
 
 ```markdown
